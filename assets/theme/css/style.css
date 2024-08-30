@@ -213,7 +213,6 @@ iframe {
 
 .card {
   background-color: transparent;
-  border: none;
 }
 
 .card-box {
@@ -967,7 +966,8 @@ blockquote {
 
 .CoordinatorCard{
   margin: 20px 50px 50px 20px;
-  width: 35%;
+  width: 55%;
+  border-radius: 20%;
 }
 
 .SocialLinks{
@@ -986,6 +986,9 @@ blockquote {
 }
 
 .items2{
+  margin-right: 10px;
+}
+.items3{
   margin-right: 30px;
 }
 .ml6 {
